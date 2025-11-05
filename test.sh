@@ -1,7 +1,7 @@
 Hi
 Hello how are you
 This is devops course
-From Singam
+From Sriram
 
 My manager is good
 
